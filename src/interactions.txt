@@ -1,0 +1,6 @@
+Interaction 1
+	When the petals of the flower are clicked they change between three colors
+Interaction 2 (Association)
+	When the petal interaction happens a conversation bubble changes text to say the current color of the petals
+Interaction 3 (Implementation)
+	When the seat or vase are dragged (Only the rounded rectangle parts) they move with the mouse 
